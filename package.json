@@ -17,7 +17,7 @@
     "test": "./node_modules/.bin/mocha -G --reporter mocha-unfunk-reporter test/*.js"
   },
   "dependencies": {
-    "nano": "0.4.*",
+    "nano": "4.7.*",
     "lodash": "2.4.x"
   },
   "devDependencies": {
